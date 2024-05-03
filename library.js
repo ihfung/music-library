@@ -1,5 +1,3 @@
-//const lib = require("pg-hstore");
-
 const library = {
   tracks: {
     //key for library object
